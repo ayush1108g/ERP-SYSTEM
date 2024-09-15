@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gc_erp_system/static/css/main.122b4b73.css",
-    "main.js": "/gc_erp_system/static/js/main.79612012.js",
+    "main.css": "/gc_erp_system/static/css/main.b3b0878b.css",
+    "main.js": "/gc_erp_system/static/js/main.e62e07b2.js",
     "static/js/453.8ab44547.chunk.js": "/gc_erp_system/static/js/453.8ab44547.chunk.js",
     "static/media/9.jpg": "/gc_erp_system/static/media/9.415bf8a2e5a426bb72c2.jpg",
     "static/media/10.jpg": "/gc_erp_system/static/media/10.26b4a730f945b399c47b.jpg",
@@ -17,12 +17,12 @@
     "static/media/3.jpg": "/gc_erp_system/static/media/3.43a8428d3b3d86a29fb6.jpg",
     "static/media/6.jpg": "/gc_erp_system/static/media/6.2b7112d41ae6f923ffbd.jpg",
     "index.html": "/gc_erp_system/index.html",
-    "main.122b4b73.css.map": "/gc_erp_system/static/css/main.122b4b73.css.map",
-    "main.79612012.js.map": "/gc_erp_system/static/js/main.79612012.js.map",
+    "main.b3b0878b.css.map": "/gc_erp_system/static/css/main.b3b0878b.css.map",
+    "main.e62e07b2.js.map": "/gc_erp_system/static/js/main.e62e07b2.js.map",
     "453.8ab44547.chunk.js.map": "/gc_erp_system/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.122b4b73.css",
-    "static/js/main.79612012.js"
+    "static/css/main.b3b0878b.css",
+    "static/js/main.e62e07b2.js"
   ]
 }
